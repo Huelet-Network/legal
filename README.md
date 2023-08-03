@@ -1,8 +1,3 @@
-# legal
-It sucks.
-
-
-
 <h1 align="center">Legal</h1>
 
 <div align="center">
