@@ -1,10 +1,7 @@
-<h1 align="center">TERMS & CONDITIONS</h1>
+<h1 align="center">Huelet TERMS & CONDITIONS - Effective: August 3, 2023</h1>
 
 <div align="center">
   
-  
-
-# Huelet TERMS & CONDITIONS - Effective: August 3, 2023
 
 These are the terms and conditions governing the use ofHuelet, (theService) and the agreement that operates between us and you (the Terms).
 (us/our/we) and these Terms set out the rights and obligations of all users (you/your) in relation to your use of the Website.
