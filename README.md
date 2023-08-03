@@ -8,7 +8,7 @@
 
   <h2> 📧 Contact us </h2>
 
- Shards Team - [E-mail](mailto:Huelet@proton.me)
+ Huelet Team - [E-mail](mailto:Huelet@proton.me)
 
 
 
